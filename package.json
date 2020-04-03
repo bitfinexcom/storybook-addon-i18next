@@ -1,5 +1,5 @@
 {
-  "name": "@bitfinexcom/storybook-addon-i18next",
+  "name": "storybook-addon-i18next",
   "version": "1.3.0",
   "description": "React Storybook addon for i18next",
   "keywords": [
