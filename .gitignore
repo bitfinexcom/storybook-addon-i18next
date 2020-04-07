@@ -17,8 +17,8 @@ npm-debug.log*
 yarn-error.log*
 
 # Distribution
-/manager.js
-/preview.js
+# /manager.js
+# /preview.js
 
 # Dependency directory
 node_modules
